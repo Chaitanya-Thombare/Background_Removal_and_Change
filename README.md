@@ -3,8 +3,9 @@ ___
 ## Introduction
 will soon add explainantion to this repo
 
-### PS
+### PLEASE SEE THIS
 Time taken to process all outputs is less than 1.4s
+
 Quality maintained, meaning the cropped part of images in output are same as in input images
 
 ## Examples
