@@ -3,6 +3,8 @@ ___
 ## Introduction
 will soon add explainantion to this repo
 
+### PS. - Time taken to process all outputs is less than 1.4s
+
 ## Examples
 ### Test Images
 
